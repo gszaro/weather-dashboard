@@ -13,10 +13,4 @@ A simple web application that fetches real-time weather data for any city using 
 - JavaScript (Fetch API)
 - OpenWeatherMap API
 
-## How to Run
-1. Clone this repository.
-2. Open `index.html` in your browser.
-3. Enter your own API key from [OpenWeatherMap](https://openweathermap.org/api).
 
-## Screenshot
-(Include a screenshot here later)
