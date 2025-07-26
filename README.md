@@ -14,3 +14,4 @@ A simple web application that fetches real-time weather data for any city using 
 - OpenWeatherMap API
 
 
+![Weather Dashboard Screenshot](screenshot.png)
